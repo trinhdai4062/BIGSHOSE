@@ -1,0 +1,18 @@
+# Loại trừ node_modules
+sever/BIGSHOSE/node_modules/
+client/website/node_modules/
+client/mobile/BigShose_/node_modules/
+
+
+# Loại trừ file .env
+sever/BIGSHOSE/.env
+client/website/.env
+client/mobile/BigShose_/.env
+
+
+
+client/mobile/BigShose_/src/constants/appInfos.ts
+client/mobile/BigShose_/src/bigshosesdk.json
+client/mobile/BigShose_/ios/link-assets-manifest.json
+client/mobile/BigShose_/android/link-assets-manifest.json
+client/website/src/firebase.js
